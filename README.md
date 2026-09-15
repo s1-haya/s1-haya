@@ -1,13 +1,10 @@
 # Hi, I'm Hayato 👋
 
-I'm a software engineering student at **42Tokyo**, preparing to continue my studies at **42Paris** from September 2026.
+I'm a software engineering student at **42Paris** from September 2026.
 
 I'm building strong fundamentals in **C/C++**, **Linux**, **algorithms**, **networking**, and **backend systems** through the 42 curriculum.
 
 I also have practical experience in **LLM/RAG technical validation** and **PoC development** for an internal AI chat application in the automotive industry.
-
-Currently, I'm improving my technical communication in English, preparing for international opportunities in France, and exploring how software engineering and AI/RAG can solve real-world problems.
-
 ---
 
 ## What I Can Do
