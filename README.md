@@ -5,6 +5,7 @@ I'm a software engineering student at **42Paris** from September 2026.
 I'm building strong fundamentals in **C/C++**, **Linux**, **algorithms**, **networking**, and **backend systems** through the 42 curriculum.
 
 I also have practical experience in **LLM/RAG technical validation** and **PoC development** for an internal AI chat application in the automotive industry.
+
 ---
 
 ## What I Can Do
