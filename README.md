@@ -4,11 +4,11 @@
 
 👋 Hi, I'm Hayato!
 
-- 🚀 42 Paris student focused on Software Engineering and Applied AI
+- 🚀 42 Paris student focused on Systems & DevOps Projects
 - 🤖 Experience building LLM / RAG-based applications for engineering workflows
 - 🌍 Based in Paris, France 🇫🇷 (from Japan 🇯🇵)
 - 🗣️ Languages: Japanese, English
-- 💼 Previously worked as a Software Engineer in Japan
+- 💼 Previously worked as a Software Engineer (TOYOTA consultant) in Japan
 - 🎯 Currently looking for a Software / AI Engineering internship in Paris
 
 ---
@@ -97,7 +97,7 @@ Selected projects completed during the 42 Tokyo Common Core, with a focus on sys
 |---|---|---|
 | [**webserv**](https://github.com/42-ws/webserv) | Built an HTTP server from scratch with request handling, routing, CGI execution, file uploads, configuration parsing, and non-blocking network communication. | C++, HTTP, TCP/IP, CGI, Socket Programming |
 | [**ft_transcendence / 42-pong**](https://github.com/42-pong/42-pong) | Developed a full-stack Pong platform with real-time multiplayer, chat, authentication, 2FA, REST APIs, and WebSocket communication. | JavaScript, Django, PostgreSQL, Redis, Docker, Nginx, WebSocket, REST API, OAuth 2.0, JWT |
-| [**minishell**](https://github.com/s1-haya/minishell_bonus) | Implemented a Unix shell with command parsing, pipes, redirections, environment variables, process management, and signal handling. | C, Unix, Processes, Pipes, Signals |
+| [**minishell**](https://github.com/s1-haya/minishell_bonus) | Implemented a Unix shell with command parsing, pipes, redirections, environment variables, process management, and signal handling using AVL tree. | C, Unix, Processes, Pipes, Signals |
 | [**miniRT**](https://github.com/s1-haya/miniRT) | Built a ray-tracing renderer from scratch, implementing ray-object intersections, lighting, cameras, transformations, and vector mathematics. | C, Ray Tracing, Linear Algebra, Graphics, Algorithms |
 
 ---
