@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Hayato!
 
-- 🚀 42 Paris student focused on Systems & DevOps Projects
+- 🚀 42 Paris student focused on AI / Data Science Projects
 - 🤖 Experience building LLM / RAG-based applications for engineering workflows
 - 🌍 Based in Paris, France 🇫🇷 (from Japan 🇯🇵)
 - 🗣️ Languages: Japanese, English
@@ -63,18 +63,16 @@
 
 ### 🇫🇷 42 Paris — Current & Upcoming Projects
 
-Projects I am currently working on or planning to work on at 42 Paris, focusing on systems, infrastructure, and Linux internals.
+Projects I am currently working on or planning to work on at 42 Paris, focusing on AI / Data Science Projects
 
 | Project | Status | Description | Tech Stack |
 |---|---|---|---|
-| **Inception-of-Things** | Planned | Kubernetes and infrastructure project focused on container orchestration, cluster deployment, and GitOps concepts. | Kubernetes, K3s, k3d, Vagrant, Argo CD |
-| **ft_linux** | In Progress | Building and configuring a Linux system and kernel from source to deepen my understanding of operating systems, boot processes, partitions, and system configuration. | Linux, Kernel, GRUB, Bash |
-
----
+| [**Gomoku**](https://github.com/s1-haya/gomoku) | In Progress | Developing a Gomoku AI designed to search at least 10 levels deep within 0.5 seconds. | Python, Minimax, Alpha-Beta Pruning, Heuristic Evaluation |
+| [**n-puzzle**](https://github.com/s1-haya/N-Puzzle) | In Progress | Developing an N-puzzle solver that visualizes the solving process and measures time and space complexity. | Python, A*, Greedy Best-First Search (GBFS), Uniform-Cost Search (UCS), Heuristic Functions |
 
 ### 🇯🇵 42 Tokyo — Common Core
 
-Selected projects completed during the 42 Tokyo Common Core, with a focus on systems programming, networking, graphics, and full-stack development.
+Built a strong foundation in computer science and essential software engineering skills through the 42 Tokyo Common Core.
 
 #### Tech Stack
 
